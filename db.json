@@ -1,0 +1,32 @@
+{
+  "series": [
+    {
+      "id": "1",
+      "nomeSerie": "Shokugueki no Soma",
+      "NumTemporadas": 5,
+      "AnoLancamento": 2008,
+      "estudio": "AMC"
+    },
+    {
+      "id": "2",
+      "nomeSerie": "Stranger Things",
+      "NumTemporadas": 4,
+      "AnoLancamento": 2016,
+      "estudio": "Netflix"
+    },
+    {
+      "id": "3",
+      "nomeSerie": "kimi no todoke",
+      "NumTemporadas": 1,
+      "AnoLancamento": 202,
+      "estudio": "chibi"
+    },
+    {
+      "id": "4",
+      "nomeSerie": "kimi ke",
+      "NumTemporadas": 1,
+      "AnoLancamento": 202,
+      "estudio": "chibi"
+    }
+  ]
+}
